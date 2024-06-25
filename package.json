@@ -7,7 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.19.2",
-    "clipboard": "^2.0.11"
+    "express": "^4.19.2"
   }
 }
