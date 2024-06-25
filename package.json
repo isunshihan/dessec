@@ -1,0 +1,13 @@
+{
+  "name": "dnssec-generator",
+  "version": "1.0.0",
+  "description": "A simple DNSSEC generator using Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "clipboard": "^2.0.11"
+  }
+}
